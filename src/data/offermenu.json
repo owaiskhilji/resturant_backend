@@ -1,0 +1,17 @@
+[
+  {
+      "menuname": "Cheesy Stuffed Burger",
+      "category": "Fast Food",
+      "price": 6.50
+  },
+  {
+      "menuname": "Italian Pepperoni Pizza",
+      "category": "Italian",
+      "price": 10.99
+  },
+  {
+      "menuname": "Turkish Doner Wrap",
+      "category": "Turkish",
+      "price": 5.49
+  }
+]

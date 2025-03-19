@@ -1,0 +1,21 @@
+[
+  {"menuname": "Zinger Burger", "category": "Fast Food", "price": 5.99},
+  {"menuname": "Chicken Cheese Burger", "category": "Fast Food", "price": 6.49},
+  {"menuname": "Beef Burger", "category": "Fast Food", "price": 6.99},
+  {"menuname": "Club Sandwich", "category": "Fast Food", "price": 5.50},
+  {"menuname": "Calzone", "category": "Italian", "price": 8.99},
+  {"menuname": "Fettuccine Carbonara", "category": "Italian", "price": 9.50},
+  {"menuname": "Panini Sandwich", "category": "Italian", "price": 5.75},
+  {"menuname": "Caprese Salad", "category": "Italian", "price": 6.50},
+  {"menuname": "Gnocchi", "category": "Italian", "price": 8.00},
+  {"menuname": "Full English Breakfast", "category": "English", "price": 7.99},
+  {"menuname": "Fish and Chips", "category": "English", "price": 9.50},
+  {"menuname": "Shepherd's Pie", "category": "English", "price": 8.75},
+  {"menuname": "Bangers and Mash", "category": "English", "price": 8.25},
+  {"menuname": "Sunday Roast", "category": "English", "price": 10.00},
+  {"menuname": "Yorkshire Pudding", "category": "English", "price": 2.50},
+  {"menuname": "Scotch Eggs", "category": "English", "price": 3.00},
+  {"menuname": "Doner Kebab", "category": "Turkish", "price": 6.00},
+  {"menuname": "Lahmacun", "category": "Turkish", "price": 5.00},
+  {"menuname": "Iskender Kebab", "category": "Turkish", "price": 9.00}
+]
