@@ -25,7 +25,7 @@ import userRouter from "./routes/user.routes.js"
 import menuRouter from "./routes/menu.routes.js"
 import offermenuRouter from "./routes/offermenu.routes.js"
 // ROUTES 
-// routes ko use krne k liye hm plhy app.get ka use kr rahe the mgr yha ese nh kr skte kio k os sari files ek jaga thi lkn ab hm me file seperate kr di to is k  liye hme midderwaer ka use krna hoga 
+
 app.use("/api/v1/users",userRouter)
 app.use("/api/v1/menu",menuRouter)
 app.use("/api/v1/offermenu",offermenuRouter)
